@@ -1,0 +1,17 @@
+[
+    {
+        "onboardingTitle": "Location",
+        "onboardingContent": "Discover tasty & delicious food items from our menu and discover additional sides, deserts and entrees to satisfy your cravings.",
+        "onboardingImage": "https://e7.pngegg.com/pngimages/538/1010/png-clipart-green-map-red-location-mark-green-map-red-thumbnail.png"
+    },
+    {
+        "onboardingTitle": "Security",
+        "onboardingContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "onboardingImage": "https://library.kissclipart.com/20180917/ktw/kissclipart-information-security-clipart-computer-security-cli-85679ab37a06dfc3.jpg"
+    },
+    {
+        "onboardingTitle": "Tracking",
+        "onboardingContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "onboardingImage": "https://www.pinclipart.com/picdir/middle/322-3222242_tracking-and-traceability-folded-map-icon-clipart.png"
+    }
+]
